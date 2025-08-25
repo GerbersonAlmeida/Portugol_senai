@@ -10,6 +10,7 @@ programa
 		leia(anoatual)
 		idade = anoatual - nascimento 
 		escreva("Sua idade é ", idade)
+		// teste
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -17,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 216; 
+ * @POSICAO-CURSOR = 261; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
